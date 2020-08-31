@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FB | Creative Agency Hugo Template</title>
-    <link>/about/fr/categories/</link>
+    <link>/fr/categories/</link>
     <description>Recent content in Categories on FB | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="/about/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>/about/fr/categories/artificial-intelligence/</link>
+      <link>/fr/categories/artificial-intelligence/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/about/fr/categories/artificial-intelligence/</guid>
+      <guid>/fr/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company News</title>
-      <link>/about/fr/categories/company-news/</link>
+      <link>/fr/categories/company-news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/about/fr/categories/company-news/</guid>
+      <guid>/fr/categories/company-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy Support</title>
-      <link>/about/fr/categories/legacy-support/</link>
+      <link>/fr/categories/legacy-support/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/about/fr/categories/legacy-support/</guid>
+      <guid>/fr/categories/legacy-support/</guid>
       <description></description>
     </item>
     

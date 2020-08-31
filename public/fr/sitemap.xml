@@ -3,8 +3,337 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/fr/</loc>
+    <loc>/fr/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/advice/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/ai/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/android/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/company-news/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-6/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/legacy-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/legacy-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/mechine/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/retro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/technology/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/technology/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,518 +342,189 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/"
+                href="/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/faq/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <loc>/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/faq/"
+                href="/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/faq/"
+                href="/fr/author/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/tags/advice/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/tags/advice/"
+                href="/fr/contact/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/tags/ai/"
+                href="/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/tags/ai/"
+                href="/fr/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/tags/android/"
+                href="/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/tags/android/"
+                href="/fr/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/categories/artificial-intelligence/"
+                href="/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/categories/artificial-intelligence/"
+                href="/fr/pricing/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/categories/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/categories/"
+                href="/fr/project/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/tags/company/"
+                href="/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/tags/company/"
+                href="/fr/project/rio-furniture-1/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/categories/company-news/"
+                href="/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/categories/company-news/"
+                href="/fr/project/rio-furniture-2/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/blog/blog-post-1/"
+                href="/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/blog/blog-post-1/"
+                href="/fr/project/rio-furniture-3/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/blog/blog-post-2/"
+                href="/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/blog/blog-post-2/"
+                href="/fr/project/rio-furniture-4/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/blog/blog-post-3/"
+                href="/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/blog/blog-post-3/"
+                href="/fr/project/rio-furniture-5/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/project/rio-furniture-6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/blog/blog-post-4/"
+                href="/project/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/blog/blog-post-4/"
+                href="/fr/project/rio-furniture-6/"
                 />
   </url>
   
   <url>
-    <loc>/about/fr/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/fr/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/blog/blog-post-5/"
+                href="/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/about/fr/blog/blog-post-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/blog/blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/categories/legacy-support/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/tags/mechine/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/tags/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/tags/retro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/tags/technology/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/author/mark-dinn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/project/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/fr/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/about/fr/service/"
+                href="/fr/service/"
                 />
   </url>
   

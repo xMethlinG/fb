@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/about/"
+baseURL = "/"
 title = "FB | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
